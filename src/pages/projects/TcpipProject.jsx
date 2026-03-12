@@ -90,7 +90,7 @@ export default function TcpStackProject() {
             <div className="absolute -inset-6 bg-accent/10 blur-2xl rounded-2xl -z-10" />
 
             <img
-              src="images/tcpip/tcpip-demo.png"
+              src={`${import.meta.env.BASE_URL}images/tcpip/tcpip-demo.png`}
               alt="Userspace TCP stack running with TUN interface"
               className="rounded-xl border border-border shadow-xl"
             />
