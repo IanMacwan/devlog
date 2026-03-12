@@ -2,7 +2,7 @@
   "name": "ian-dev",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://YOUR_USERNAME.github.io/my-site",
+  "homepage": "https://IanMacwan.github.io/devlog",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -22,7 +22,7 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.0",
     "autoprefixer": "^10.4.24",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.19",
     "vite": "^5.2.0"
