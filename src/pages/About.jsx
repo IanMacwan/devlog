@@ -111,7 +111,7 @@ export default function About() {
                       <div className="flex items-center gap-4">
                         <div className="w-20 h-20 rounded-xl border border-border bg-bg overflow-hidden">
                           <img
-                            src="https://cdn.i-scmp.com/sites/default/files/images/methode/2017/05/19/2b2d8790-3c6a-11e7-8ee3-761f02c18070_1280x720_204107.jpg"
+                            src="https://static.vecteezy.com/system/resources/thumbnails/020/765/399/small/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg"
                             alt="Profile"
                             className="w-full h-full object-cover"
                           />
